@@ -7,7 +7,7 @@ app.use(cors());
 
 const categories = require('./data/categories.json');
 
-
+const course = require('./data/course.json');
 
 app.get('/', (req, res) => {
 	res.send('Programming API is running');
@@ -19,7 +19,13 @@ app.get('/categories', (req, res) => {
 
 
 
-
+app.get('/course/details/:id', (req, res) => {
+    const id = req.params.id;
+    console.log(id)
+    const selectedCourse = course.find((p) => p.id == id);
+	res.send(selectedCourse);
+    console.log(selectedCourse);
+});
 
 
 app.listen(port, () => {
