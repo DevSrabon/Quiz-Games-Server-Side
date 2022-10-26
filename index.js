@@ -5,9 +5,9 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-const courses = require('./data/categories.json');
+const courses = require('./data/course.json');
 
-const courseDetail = require('./data/course.json');
+const courseDetail = require('./data/courseDetails.json');
 
 app.get('/', (req, res) => {
 	res.send('Programming API is running');

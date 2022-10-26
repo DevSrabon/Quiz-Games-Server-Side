@@ -1,55 +1,55 @@
 [
     {
-        "name": "C Programming Language",
+        "name": "C Programming",
         "id": 1,
-        "total-review": 20.8,
+        "review": 20.8,
         "duration": "3600 Min",
-        "price": "$100",
+        "price": "$150",
         "img":"https://contentstatic.techgig.com/photo/90325682.cms",
         "short": "C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners."
     },
     {
-        "name": "C++ Programming Language",
+        "name": "C++ Programming",
         "id": 2,
-        "total-review": 7.8,
-        "duration": "3600 Min",
+        "review": 7.8,
+        "duration": "3800 Min",
         "price": "$100",
         "img":"https://img.youtube.com/vi/MhYECGUzdA4/hqdefault.jpg",
         "short": "C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners."
     },
     {
-        "name": "C# Programming Language",
+        "name": "C# Programming",
         "id": 3,
-        "total-review": 988,
-        "duration": "3600 Min",
-        "price": "$100",
+        "review": 2.6,
+        "duration": "3200 Min",
+        "price": "$99",
         "img":"https://www.kindpng.com/picc/m/608-6084179_transparent-c-programming-png-c-sharp-logo-png.png",
         "short": "C# is pronounced as C-Sharp. It is an object-oriented programming language provided by Microsoft that runs on .Net Framework."
     },
     {
-        "name": "Java Programming Language",
+        "name": "Java Programming",
         "id": 4,
-        "total-review": 4.9,
-        "duration": "3600 Min",
-        "price": "$100",
+        "review": 4.9,
+        "duration": "4500 Min",
+        "price": "$110",
         "img":"https://5.imimg.com/data5/QQ/CT/AO/GLADMIN-25397883/selection-064-500x500.png",
         "short": "Java is a popular programming language. Java is used to develop mobile apps, web apps, desktop apps, games and much more."
     },
     {
-        "name": "Python Programming Language",
+        "name": "Python Programming",
         "id": 5,
-        "total-review": 55.3,
-        "duration": "3600 Min",
-        "price": "$100",
+        "review": 55.3,
+        "duration": "2100 Min",
+        "price": "$130",
         "img":"https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png",
         "short": "Python is a popular general-purpose programming language. It is used in machine learning, web development, desktop applications, and many other fields."
     },
     {
         "name": "PhP Programming Language",
         "id": 6,
-        "total-review": 6.9,
-        "duration": "3600 Min",
-        "price": "$100",
+        "review": 6.9,
+        "duration": "2600 Min",
+        "price": "$120",
         "img":"https://contentstatic.techgig.com/photo/msid-81637605,width-400,resizemode-4/Pros-and-cons-of-PHP-programming-language-that-every-developer-must-know.jpg",
         "short": "PHP is an acronym for PHP: Hypertext Preprocessor · PHP is a widely-used, open source scripting language · PHP scripts are executed on the server·"
     }
