@@ -14,7 +14,7 @@
         "review": 7.8,
         "duration": "3800 Min",
         "price": "$100",
-        "img":"https://img.youtube.com/vi/MhYECGUzdA4/hqdefault.jpg",
+        "img":"https://www.nicepng.com/png/detail/981-9813175_c-logo-c-programming-language-logo.png",
         "intro": "C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners."
     },
     {
@@ -45,7 +45,7 @@
         "intro": "Python is a popular general-purpose programming language. It is used in machine learning, web development, desktop applications, and many other fields."
     },
     {
-        "name": "PhP Programming Language",
+        "name": "PhP Programming",
         "id": 6,
         "review": 6.9,
         "duration": "2600 Min",
